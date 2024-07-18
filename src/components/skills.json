@@ -1,0 +1,7 @@
+[
+	{ "name": "Python", "perc": 90 },
+	{ "name": "C", "perc": 70 },
+	{ "name": "JavaScript", "perc": 70 },
+	{ "name": "SQL", "perc": 60 },
+	{ "name": "Linux", "perc": 80 }
+]
